@@ -1,0 +1,13 @@
+F:\AGLTest\AGLSolution\AGL.DTO\bin\Debug\AGL.DTO.dll
+F:\AGLTest\AGLSolution\AGL.DTO\bin\Debug\AGL.DTO.pdb
+F:\AGLTest\AGLSolution\AGL.DTO\bin\Debug\Newtonsoft.Json.dll
+F:\AGLTest\AGLSolution\AGL.DTO\bin\Debug\Newtonsoft.Json.xml
+F:\AGLTest\AGLSolution\AGL.DTO\obj\Debug\AGL.DTO.dll
+F:\AGLTest\AGLSolution\AGL.DTO\obj\Debug\AGL.DTO.pdb
+F:\AGLTest\AGLTest\AGL.DTO\bin\Debug\AGL.DTO.dll
+F:\AGLTest\AGLTest\AGL.DTO\bin\Debug\AGL.DTO.pdb
+F:\AGLTest\AGLTest\AGL.DTO\bin\Debug\Newtonsoft.Json.dll
+F:\AGLTest\AGLTest\AGL.DTO\bin\Debug\Newtonsoft.Json.xml
+F:\AGLTest\AGLTest\AGL.DTO\obj\Debug\AGL.DTO.dll
+F:\AGLTest\AGLTest\AGL.DTO\obj\Debug\AGL.DTO.pdb
+F:\AGLTest\AGLTest\AGL.DTO\obj\Debug\AGL.DTO.csprojResolveAssemblyReference.cache

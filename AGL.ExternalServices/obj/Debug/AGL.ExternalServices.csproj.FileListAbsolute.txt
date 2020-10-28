@@ -1,0 +1,12 @@
+F:\AGLTest\AGLSolution\AGL.ExternalServices\obj\Debug\AGL.ExternalServices.csprojResolveAssemblyReference.cache
+F:\AGLTest\AGLTest\AGL.ExternalServices\bin\Debug\AGL.ExternalServices.dll
+F:\AGLTest\AGLTest\AGL.ExternalServices\bin\Debug\AGL.ExternalServices.pdb
+F:\AGLTest\AGLTest\AGL.ExternalServices\bin\Debug\AGL.DTO.dll
+F:\AGLTest\AGLTest\AGL.ExternalServices\bin\Debug\AGL.Library.dll
+F:\AGLTest\AGLTest\AGL.ExternalServices\bin\Debug\Newtonsoft.Json.dll
+F:\AGLTest\AGLTest\AGL.ExternalServices\bin\Debug\AGL.DTO.pdb
+F:\AGLTest\AGLTest\AGL.ExternalServices\bin\Debug\AGL.Library.pdb
+F:\AGLTest\AGLTest\AGL.ExternalServices\bin\Debug\Newtonsoft.Json.xml
+F:\AGLTest\AGLTest\AGL.ExternalServices\obj\Debug\AGL.ExternalServices.csprojResolveAssemblyReference.cache
+F:\AGLTest\AGLTest\AGL.ExternalServices\obj\Debug\AGL.ExternalServices.dll
+F:\AGLTest\AGLTest\AGL.ExternalServices\obj\Debug\AGL.ExternalServices.pdb
