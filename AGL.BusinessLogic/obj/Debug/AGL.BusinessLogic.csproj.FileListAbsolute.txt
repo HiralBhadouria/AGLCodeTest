@@ -1,0 +1,14 @@
+F:\AGLTest\AGLSolution\AGL.BusinessLogic\obj\Debug\AGL.BusinessLogic.csprojResolveAssemblyReference.cache
+F:\AGLTest\AGLTest\AGL.BusinessLogic\bin\Debug\AGL.BusinessLogic.dll
+F:\AGLTest\AGLTest\AGL.BusinessLogic\bin\Debug\AGL.BusinessLogic.pdb
+F:\AGLTest\AGLTest\AGL.BusinessLogic\bin\Debug\AGL.DTO.dll
+F:\AGLTest\AGLTest\AGL.BusinessLogic\bin\Debug\AGL.ExternalServices.dll
+F:\AGLTest\AGLTest\AGL.BusinessLogic\bin\Debug\AGL.Library.dll
+F:\AGLTest\AGLTest\AGL.BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+F:\AGLTest\AGLTest\AGL.BusinessLogic\bin\Debug\AGL.DTO.pdb
+F:\AGLTest\AGLTest\AGL.BusinessLogic\bin\Debug\AGL.ExternalServices.pdb
+F:\AGLTest\AGLTest\AGL.BusinessLogic\bin\Debug\AGL.Library.pdb
+F:\AGLTest\AGLTest\AGL.BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+F:\AGLTest\AGLTest\AGL.BusinessLogic\obj\Debug\AGL.BusinessLogic.csprojResolveAssemblyReference.cache
+F:\AGLTest\AGLTest\AGL.BusinessLogic\obj\Debug\AGL.BusinessLogic.dll
+F:\AGLTest\AGLTest\AGL.BusinessLogic\obj\Debug\AGL.BusinessLogic.pdb

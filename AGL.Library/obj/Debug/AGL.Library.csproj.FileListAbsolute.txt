@@ -1,0 +1,4 @@
+F:\AGLTest\AGLTest\AGL.Library\bin\Debug\AGL.Library.dll
+F:\AGLTest\AGLTest\AGL.Library\bin\Debug\AGL.Library.pdb
+F:\AGLTest\AGLTest\AGL.Library\obj\Debug\AGL.Library.dll
+F:\AGLTest\AGLTest\AGL.Library\obj\Debug\AGL.Library.pdb
